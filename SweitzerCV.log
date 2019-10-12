@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  12 OCT 2019 15:34
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  12 OCT 2019 15:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -316,6 +316,6 @@ Here is how much of TeX's memory you used:
  12518 multiletter control sequences out of 15000+600000
  29220 words of font info for 35 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 28i,8n,30p,451b,483s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,8n,30p,451b,493s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on SweitzerCV.pdf (4 pages).
