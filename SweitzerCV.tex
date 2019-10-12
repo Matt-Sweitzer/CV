@@ -2,18 +2,15 @@
 
 \usepackage{hyperref}
 \urlstyle{same}
-\usepackage{geometry}
+\usepackage[margin=0.8in]{geometry}
 \usepackage{tabularx}
 
-% Comment the following lines to use the default Computer Modern font
-% instead of the Palatino font provided by the mathpazo package.
-% Remove the 'osf' bit if you don't like the old style figures.
 \usepackage[T1]{fontenc}
+\usepackage{fontspec}
+\setmainfont[Ligatures=TeX]{Charter}
 
-% Set your name here
 \def\name{Matthew D. Sweitzer, M.A.}
 
-% The following metadata will show up in the PDF properties
 \hypersetup{
   colorlinks = true,
   urlcolor = black,
@@ -24,24 +21,12 @@
   pdfpagemode = UseNone
 }
 
-
-\geometry{
-  body={7in, 9.5in},
-  left=0.75in,
-  top=0.75in
-}
-
-% Customize page headers
 \pagestyle{myheadings}
-\markright{\fontfamily{bch}\selectfont \name}
+\markright{\name}
 \thispagestyle{empty}
 
-
-
-% Don't indent paragraphs.
 \setlength\parindent{0pt}
 
-% Make lists without bullets
 \renewenvironment{itemize}{
   \begin{list}{}{
     \setlength{\leftmargin}{10pt}
@@ -51,16 +36,12 @@
 }
 
 \begin{document}
-{\fontfamily{bch}\selectfont
+{%\fontfamily{bch}\selectfont
 \begin{center}
-{\Large \bf \name}
+{\Large \textbf{\name}}
 
 Ph.D. Candidate
 \end{center}
-
-
-% Alternatively, print name centered and bold:
-%\centerline{\huge \bf \name}
 
 \vspace{12pt}
 
@@ -118,7 +99,7 @@ Homepage: & \href{https://www.matthewsweitzer.com}{matthewsweitzer.com} & Columb
 
 \begin{itemize}
 \item Bond, R. M., \& \textbf{Sweitzer, M. D.} (\textit{in press}). Political homophily in a large-scale online communication network. \textit{Communication Research}. doi:10.1177/0093650218813655
-%\item Coronel, J. C., Poulsen, S., \& \textbf{Sweitzer, M. D.} (\textit{in press}). Investigating the generation and spread of numerical misinformation: A combined eye movement monitoring and social transmission approach. \textit{Human Communication Research}.
+\item Coronel, J. C., Poulsen, S., \& \textbf{Sweitzer, M. D.} (\textit{in press}). Investigating the generation and spread of numerical misinformation: A combined eye movement monitoring and social transmission approach. \textit{Human Communication Research}.
 \item Holt, L. F., \& \textbf{Sweitzer, M. D.} (\textit{in press}). More than a black and white issue: Ethnic identity, social dominance orientation, and support for the Black Lives Matter movement. \textit{Self and Identity}. doi:10.1080/15298868.2018.1524788
 \item Coronel, J. C., \& \textbf{Sweitzer, M. D.} (2018). Evaluating political messages in dynamic information environments: Insights from eye movements. \textit{Human Communication Research, 44}(4), 374-398. doi:10.1093/hcr/hqy006
 \item \hangindent=20pt Shulman, H. C., \& \textbf{Sweitzer, M. D.} (2018a). Advancing framing theory: Designing an equivalency frame to improve political information processing. \textit{Human Communication Research, 44}(2), 155-175. doi:10.1093/hcr/hqx006
