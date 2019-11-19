@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  19 NOV 2019 11:59
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  19 NOV 2019 12:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7,8 +7,8 @@ entering extended mode
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -496,12 +496,12 @@ LaTeX Info: Redefining \nameref on input line 38.
 * \topmargin=-55.06749pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=59.0pt
+* \marginparwidth=44.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -574,10 +574,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 [1
 
 ]
-LaTeX Font Info:    Font shape `TU/PTSerif(0)/m/sl' in size <10.95> not availab
-le
+LaTeX Font Info:    Font shape `TU/PTSerif(0)/m/sl' in size <12> not available
 (Font)              Font shape `TU/PTSerif(0)/m/it' tried instead on input line
- 141.
+ 137.
  [2] [3]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 245.
  [4]
@@ -590,12 +589,12 @@ Package rerunfilecheck Info: File `SweitzerCV.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 245.
  ) 
 Here is how much of TeX's memory you used:
- 19888 strings out of 492916
- 385820 string characters out of 6133346
- 477109 words of memory out of 5000000
+ 19890 strings out of 492916
+ 385799 string characters out of 6133346
+ 476113 words of memory out of 5000000
  23864 multiletter control sequences out of 15000+600000
- 538587 words of font info for 55 fonts, out of 8000000 for 9000
+ 538593 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 40i,8n,67p,462b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,8n,67p,462b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on SweitzerCV.pdf (4 pages).
