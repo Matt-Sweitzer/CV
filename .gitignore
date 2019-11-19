@@ -1,6 +1,9 @@
 
 .DS_Store
+SweitzerCV.aux
+SweitzerCV.fdb_latexmk
+SweitzerCV.fls
 SweitzerCV.log
-SweitzerCV.log
+SweitzerCV.out
 SweitzerCV.synctex.gz
 SweitzerCV.tex
