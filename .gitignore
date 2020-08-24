@@ -1,16 +1,7 @@
 
-SweitzerCV.aux
-SweitzerCV.log
-SweitzerCV.out
-SweitzerCV.synctex.gz
-SweitzerCV.tex
-SweitzerCV.fdb_latexmk
-SweitzerCV.fls
-SweitzerCV.xdv
-SweitzerCV.bbl
-SweitzerCV.blg
-SweitzerCV_wWIP.tex
-SweitzerCV_wWIP.synctex.gz
-SweitzerCV_wWIP.out
-SweitzerCV_wWIP.log
-SweitzerCV_wWIP.aux
+*.aux
+*.log
+*.out
+*.gz
+*.tex
+.DS_Store
