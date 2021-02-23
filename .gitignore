@@ -4,4 +4,6 @@
 *.out
 *.gz
 *.tex
+*WIP*
+*Sandia*
 .DS_Store
