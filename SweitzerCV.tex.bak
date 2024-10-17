@@ -50,8 +50,8 @@
 
 \begin{tabularx}{\textwidth}{lXr}
 Phone: & (815) 307-2647 &\\
-Email: & \href{mailto:email@mattsweitzer.com}{email@mattsweitzer.com} &\\
-Website: & \href{https://www.mattsweitzer.com}{mattsweitzer.com} &\\
+Email: & \href{mailto:email@matthewsweitzer.com}{email@matthewsweitzer.com} &\\
+Website: & \href{https://www.matthewsweitzer.com}{matthewsweitzer.com} &\\
 \end{tabularx}
 
 \vspace{0.5em}
@@ -189,7 +189,7 @@ Website: & \href{https://www.mattsweitzer.com}{mattsweitzer.com} &\\
 \begin{tabularx}{\textwidth}{Xr}
 \rule{0.5em}{0pt}{\small Machine Learning Conference (MLCON)} & {\small 2024}\vspace{0.25em}\\
 \rule{1em}{0pt}{\raggedright \small \textit{Detecting emergent discourse dynamics in online social media}}\\
-\rule{1.25em}{0pt}{\small \textbf{Sweitzer, M. D.}, Krofcheck, D., Doyle, C., Sorenson, A., \& Naugle, A.\vspace{0.5em}}\\
+\rule{1.25em}{0pt}{\small \textbf{Sweitzer, M. D.}, Krofcheck, D., Doyle, C., Sorenson, A., \& Naugle, A.}\\
 \rule{1em}{0pt}{\raggedright \small \textit{Changes in emotional content of forum messages precede user action}}\\
 \rule{1.25em}{0pt}{\small Doyle, C., Naugle, A., \textbf{Sweitzer, M. D.}, Krofcheck, D., \& Sorenson, A.}\\
 \end{tabularx}
@@ -578,8 +578,7 @@ Website: & \href{https://www.mattsweitzer.com}{mattsweitzer.com} &\\
 %&\rule{1em}{0pt}\textit{Dr. Jason Coronel} & Summer 2016, Summer 2018\rule{2em}{0pt}\\
 %\end{tabularx}
 
-%\vspace{1em}
-\pagebreak
+\vspace{1em}
 {\large Professional Memberships}
 
 \vspace{1em}
